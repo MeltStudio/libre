@@ -53,6 +53,7 @@ Los fundadores de Startup deben tener la propiedad completa de todos los activos
 * Los Contratos de Asignación de Invención asignan a la nueva empresa propiedad de IP de cualquier producto de trabajo relevante creado por los empleados después de la formación de la compañía. Un acuerdo de asignación de confidencialidad e invención generalmente está firmado por el fundador (es) y los empleados. La compañía será propietaria de todos los derechos de la cartera de IP.
 
 
+---
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Libre</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/MeltStudio/libre" property="cc:attributionName" rel="cc:attributionURL">MELT STUDIO</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/MeltStudio/libre" rel="dct:source">https://github.com/MeltStudio/libre</a>.
 
