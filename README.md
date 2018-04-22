@@ -1,22 +1,23 @@
 # libre
 
-Documentacion libre. licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+Documentación libre. 
+licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 El objetivo de este repositorio es publicar las plantillas que todo STARTUP pueda necesitar con el fin de optimizar los recursos.
 
-# Estatudos de compañia
+# Estatutos de compañía
 
 ## Acuerdos entre socios
 
-Para evitar cualquier conflicto entre fundadores, todos los cofundadores deben firmar un acuerdo operativo integral. El acuerdo debe definir la relación de los fundadores, proporcionar la expectativa de que todo el trabajo pertenecerá a alguna entidad en el futuro y delinear una comunicación básica y una cláusula de resolución de conflictos que pueden ayudar a prevenir disputas.
+Para evitar cualquier conflicto entre fundadores, todos los co-fundadores deben firmar un acuerdo operativo integral. El acuerdo debe definir la relación de los fundadores, proporcionar la expectativa de que todo el trabajo pertenecerá a alguna entidad en el futuro y delinear una comunicación básica y una cláusula de resolución de conflictos que pueden ayudar a prevenir disputas.
 
-## Politicas dentro de la compañia
+## Políticas dentro de la compañía
 
 Para garantizar que una startup funcione con la menor cantidad de complicaciones posible, los fundadores deben formular fuertes estatutos de inmediato. Los estatutos deben establecer las reglas internas de la empresa, como la forma de resolver las disputas, seleccionar el liderazgo y determinar los derechos y poderes de los accionistas. Lo más importante es que los estatutos deben establecer umbrales de votación para las aprobaciones de ciertas acciones de la corporación, como elegir nuevos miembros de la junta o endeudarse.
 
 # Contratos
 
-## Prestacion de servicios
+## Prestación de servicios
 
 * Desarrollo de software
 
@@ -26,10 +27,8 @@ Estos documentos legales son clave para garantizar que los empleados comprendan 
 
 * Términos de empleo (por ejemplo, compensación, responsabilidades de funciones, horas de trabajo y motivos para la terminación)
 * Estructura de informes
-* Propiedad de IP del trabajo
-* Esperanzas de heredar
-* Compromisos requeridos
-* Compartir derechos
+* Propiedad de IP ("propiedad intelectual" en ingles) del trabajo
+* Compromisos adquiridos
 * Políticas de la compañía (por ejemplo, días de vacaciones, estructura de tiempo libre pagado, código de vestimenta)
 
 
@@ -43,7 +42,7 @@ Contar con un acuerdo de confidencialidad (NDA, por sus siglas en inglés) de f�
 * El período de tiempo en que se revelará la información
 * Se mantendrá la confidencialidad del período de tiempo
 
-## Propierdad intelectual
+## Propiedad intelectual
 
 Un acuerdo de asignación de IP podría ser el documento legal clave que determina si su startup puede atraer las inversiones que necesita para crecer. Esto es especialmente cierto para las empresas de tecnología, porque a menudo es el valor de su cartera de IP lo que los inversores y las empresas de capital de riesgo están evaluando.
 
@@ -51,6 +50,7 @@ Los fundadores de Startup deben tener la propiedad completa de todos los activos
 
 * Los Acuerdos de Asignación de Tecnología asignan a las startups cualquier propiedad intelectual creada antes de formar la compañía. Los desarrolladores pueden, en ciertos casos, conservar los derechos de propiedad de IP individuales, o pueden vender sus derechos a cambio de capital o efectivo.
 * Los Contratos de Asignación de Invención asignan a la nueva empresa propiedad de IP de cualquier producto de trabajo relevante creado por los empleados después de la formación de la compañía. Un acuerdo de asignación de confidencialidad e invención generalmente está firmado por el fundador (es) y los empleados. La compañía será propietaria de todos los derechos de la cartera de IP.
+
 
 
 ---
